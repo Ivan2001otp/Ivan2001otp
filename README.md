@@ -1,10 +1,10 @@
-![logo](https://github.com/Ivan2001otp/Ivan2001otp/commits?author=Ivan2001otp)
+
 
 <h1 align="center">Hi 👋, I'm Immanuel D'souza</h1>
 <h3 align="center">Avid Android developer and Indie Game developer from India.</h3>
 
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/search?q=programming+animation+gif&tbm=isch&ved=2ahUKEwjQiafFgKb7AhVpELcAHd76BQcQ2-cCegQIABAA&oq=programming+animation+gif&gs_lcp=CgNpbWcQAzIGCAAQBxAeOgQIIxAnOggIABAIEAcQHlD4B1iTHWCCHmgBcAB4AoAB8wGIAcwOkgEGMS4xMS4ymAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=Qy9uY5DcBumg3LUP3vWXOA&bih=732&biw=1494#imgrc=dbrfb5dvHO4gVM&imgdii=55jyr3BK5duBpM">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ivan2001otp&label=Profile%20views&color=0e75b6&style=flat" alt="ivan2001otp" /> </p>
 
