@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ivan2001otp&label=Profile%20views&color=0e75b6&style=flat" alt="ivan2001otp" /> </p>
 
-- 🌱 I’m currently learning **Unreal engine with c++ , Android development,Python.**
+- 🌱 I’m currently learning **Unreal engine with c++ , Android development,Machine & Deep Learning.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ivan2001otp](https://github.com/Ivan2001otp)
 
-- 💬 Ask me about **Android development , java , C.**
+- 💬 Ask me about **Android development,Flutter,Golang, java ,MongoDB ,SQL.**
 
-- 📫 How to reach me **sidehustle681@gmail.com**
+- 📫 How to reach me **immanueldsouza2001@gmail.com**
 
 - ⚡ Fun fact **I am innocent and funny ✌️**
 
