@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Immanuel D'souza</h1>
-<h3 align="center">Avid Software Engineer and Indie Game developer from India.</h3>
+<h3 align="center">Avid Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ivan2001otp&label=Profile%20views&color=0e75b6&style=flat" alt="ivan2001otp" /> </p>
 
-- 🌱 I’m currently learning **Unity with C# , App development,Machine Learning.**
+- 🌱 I’m currently learning **Web-Development, App-Development ,Machine Learning.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ivan2001otp](https://github.com/Ivan2001otp)
 
-- 💬 Ask me about **Android development,Flutter,Golang, Java ,MongoDB ,SQL.**
+- 💬 Ask me about **Machine Learning,Flutter,Golang, Java ,MongoDB ,SQL,C++.**
 
 - 📫 How to reach me **immanueldsouza2001@gmail.com**
 
