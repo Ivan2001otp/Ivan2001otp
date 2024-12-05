@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ivan2001otp](https://github.com/Ivan2001otp)
 
-- 💬 Ask me about **Machine Learning,Flutter,Golang, Java ,MongoDB ,SQL,C++.**
+- 💬 Ask me about **SAAS**
 
 - 📫 How to reach me **immanueldsouza2001@gmail.com**
 
