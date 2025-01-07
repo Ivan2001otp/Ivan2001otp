@@ -3,15 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ivan2001otp&label=Profile%20views&color=0e75b6&style=flat" alt="ivan2001otp" /> </p>
 
-- 🌱 I’m currently learning **Web-Development, Backend ,Machine Learning.**
+- 🌱 I’m currently learning **Machine Learning , LLM ,AI Agentic Workflow**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Ivan2001otp](https://github.com/Ivan2001otp)
-
-- 💬 Ask me about **SAAS**
+- 💬 Working on my side projects to build small cash flow pool !
 
 - 📫 How to reach me **immanueldsouza2001@gmail.com**
 
-- ⚡ Fun fact **I am more foodie and fan of Spiderman✌️**
+- ⚡ Fun fact **I am fan of Spiderman✌️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
