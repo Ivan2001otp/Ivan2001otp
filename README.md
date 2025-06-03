@@ -1,7 +1,7 @@
 
 <!-- Animated Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=600&lines=Hey+👋%2C+I'm+Immanuel+Dsouza;Backend+Developer+(Open+to+opportunities);I+build+micro+SaaS+products+🚀;Learning+to+build+scalable+softwares" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=700&lines=Hey+👋%2C+I'm+Immanuel+Dsouza;Backend+Developer+(Open+to+opportunities);I+build+micro+SaaS+products+🚀;Learning+to+build+scalable+softwares" />
 </h1>
 
 ---
