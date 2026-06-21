@@ -10,7 +10,8 @@
 
 🔧 I’m an avid programmer who loves to **create, learn**, and **play with software**  
 🎯 Passionate about building **micro SaaS apps**  
-📚 Always up for exploring new stacks and solving meaningful problems  
+📚 Data Engineering with Pyspark, Airflow , DBT, Pandas, Databricks.
+📚 AI Engineering with LLMs, Vector Database (pgvector), RAGs, AI Voice Agent (LiveKit)
 🎮 When not coding, you'll find me gaming, daydreaming, or diving into AI 😅
 
 ---
